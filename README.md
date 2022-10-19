@@ -10,7 +10,7 @@ We compared three iteratove methods which are:
 3- Successive Over Relaxation 
 
 The comparison was between these three methods along with gaussiam elimination (when possible) in terms of:
-- # of iterations
+- Number of iterations
 - Time of execution (in google colab & Jupyter NB)
 - Memory allocation
 
